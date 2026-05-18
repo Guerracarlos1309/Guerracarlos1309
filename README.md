@@ -98,7 +98,7 @@ Soy un firme creyente del <strong>aprendizaje continuo</strong>, por lo que siem
 
 ---
 
-### 🤝 <font face="Segoe UI, Helvetica, Arial, sans-serif">Conéctate conmigo</font>
+### 🤝 <font face="Segoe UI, Helvetica, Arial, sans-serif">Contáctame por: </font>
 
 <div align="center">
   <br/>
